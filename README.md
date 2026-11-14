@@ -49,7 +49,7 @@ Bilgisayarlarla tanışmam 12 yaşımda başladı. O günden beri sistemlerin na
   <br><br>
   <strong>Elektronik ve Gömülü Sistemler</strong>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Arduino ve Raspberry Pi" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,esp32" alt="Arduino, Raspberry Pi ve ESP32" />
 </p>
 
 ## 🎯 İlgi Alanlarım
