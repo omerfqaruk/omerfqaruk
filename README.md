@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./header.svg" alt="Ömer Faruk Yıkılmaz - Kişisel yazılımcı başlığı" width="100%" />
+  <img src="./header.svg?v=2" alt="Ömer Faruk Yıkılmaz - Kişisel yazılımcı başlığı" width="100%" />
 </div>
 
 <h1 align="center">Merhaba, ben Ömer Faruk Yıkılmaz! 👋</h1>
