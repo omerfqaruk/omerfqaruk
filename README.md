@@ -50,8 +50,15 @@ Bilgisayarlarla tanışmam 12 yaşımda başladı. O günden beri sistemlerin na
   <strong>Elektronik ve Gömülü Sistemler</strong>
   <br><br>
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Arduino ve Raspberry Pi" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/esp32.png" width="48" height="48" alt="ESP32" />
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  </a>
+  <a href="https://www.raspberrypi.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+  </a>
+  <a href="https://www.espressif.com/" target="_blank">
+    <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  </a>
 </p>
 </p>
 
@@ -103,5 +110,5 @@ Bilgisayarlarla tanışmam 12 yaşımda başladı. O günden beri sistemlerin na
 <div align="center">
   <strong>Ziyaret ettiğin için teşekkür ederim. 💜</strong>
   <br>
-  <sub>Buraya kadar uğradığın için teşekkürler.</sub>
+  <sub>Şimdilik bu kadar.</sub>
 </div>
