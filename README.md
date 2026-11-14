@@ -11,13 +11,6 @@
   Yazılım Geliştirme · Problem Çözme · Teknoloji
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/%C3%B6mer-faruk-yikilmaz-2a732b273/">LinkedIn</a> ·
-  <a href="https://www.instagram.com/omerfqaruk/">Instagram</a> ·
-  <a href="https://letterboxd.com/Omer_Fqaruk/">Letterboxd</a> ·
-  <a href="mailto:omerfaruk0801@gmail.com">E-posta</a>
-</p>
-
 ---
 
 ## 👨‍💻 Hakkımda
@@ -32,17 +25,19 @@ Bilgisayarlarla tanışmam 12 yaşımda başladı. O günden beri sistemlerin na
 
 | Kurum | Program | Dönem / Bilgi |
 |:--|:--|:--|
-| **Kocaeli Üniversitesi – Meslek Yüksekokulu** | Bilgisayar Programcılığı | 2025–2027 · 2. sınıf |
+| **Kocaeli Üniversitesi – Meslek Yüksekokulu** | Bilgisayar Programcılığı | 2025–2027 · 2. sınıf · **GNO: 3,30 / 4,00** |
 | **Gazeteci Çetin Altan Mesleki ve Teknik Anadolu Lisesi** | Bilişim Teknolojileri | 2021–2025 · Onur derecesiyle mezuniyet |
-
-**Genel not ortalaması:** 3,30 / 4,00
 
 ## 🛠️ Teknolojiler ve Araçlar
 
 <p align="center">
   <strong>Programlama Dilleri</strong>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,js" alt="Programlama dilleri" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,php,js" alt="Programlama dilleri" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=c" alt="C programlama dili" />
+  <br>
+  <sub>C · Başlangıç seviyesi</sub>
   <br><br>
   <strong>Web ve Geliştirme Araçları</strong>
   <br><br>
@@ -52,8 +47,6 @@ Bilgisayarlarla tanışmam 12 yaşımda başladı. O günden beri sistemlerin na
   <br><br>
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Elektronik ve gömülü sistemler" />
 </p>
-
-> Not: C programlama dilinde başlangıç seviyesindeyim. Diğer teknolojilerde de öğrenmeye ve uygulama yaparak kendimi geliştirmeye devam ediyorum.
 
 ## 🎯 İlgi Alanlarım
 
@@ -94,8 +87,11 @@ Bilgisayarlarla tanışmam 12 yaşımda başladı. O günden beri sistemlerin na
   <a href="https://letterboxd.com/Omer_Fqaruk/">
     <img src="https://img.shields.io/badge/Letterboxd-00A368?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd">
   </a>
+</p>
+
+<p align="center">
   <a href="mailto:omerfaruk0801@gmail.com">
-    <img src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta">
+    <img src="https://img.shields.io/badge/E--posta-omerfaruk0801%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta gönder">
   </a>
 </p>
 
