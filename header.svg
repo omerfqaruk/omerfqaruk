@@ -17,7 +17,7 @@
   <g transform="translate(62 76)">
     <rect width="116" height="116" rx="23" fill="#241a34" stroke="#b99bff" stroke-opacity=".7" stroke-width="1.5"/>
     <rect x="8" y="8" width="100" height="100" rx="17" fill="none" stroke="#e0d2ff" stroke-opacity=".14"/>
-    <text x="58" y="78" text-anchor="middle" fill="#d0baff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="750" letter-spacing="-3">ÖF</text>
+    <text x="58" y="78" text-anchor="middle" fill="#d0baff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="750" letter-spacing="-3">ofq</text>
     <path d="M27 91H89" stroke="#9e7bea" stroke-width="2" stroke-linecap="round"/>
     <circle cx="91" cy="91" r="3.5" fill="#eee5ff" filter="url(#glow)"/>
   </g>
@@ -37,13 +37,13 @@
     <rect x="660" y="72" width="480" height="44" fill="#302341"/><path d="M660 116H1140" stroke="#c7b3ec" stroke-opacity=".2"/>
     <circle cx="685" cy="94" r="5" fill="#f38ba8"/><circle cx="703" cy="94" r="5" fill="#f9e2af"/><circle cx="721" cy="94" r="5" fill="#a6e3a1"/>
     <text x="900" y="98" fill="#b9a9cc" font-family="SFMono-Regular,Consolas,monospace" font-size="11" text-anchor="middle">omerfqaruk@gelistirme ~</text>
-    <text x="687" y="151" fill="#cdb5ff" font-family="SFMono-Regular,Consolas,monospace" font-size="14">$ kimim-ben?</text>
+    <text x="687" y="151" fill="#cdb5ff" font-family="SFMono-Regular,Consolas,monospace" font-size="14">$ whoami</text>
     <text x="687" y="176" fill="#f0e9ff" font-family="SFMono-Regular,Consolas,monospace" font-size="13">Ömer Faruk Yıkılmaz</text>
-    <text x="687" y="211" fill="#cdb5ff" font-family="SFMono-Regular,Consolas,monospace" font-size="14">$ ilgi-alanlarım --listele</text>
-    <text x="687" y="238" fill="#a6e3a1" font-family="SFMono-Regular,Consolas,monospace" font-size="12">[+] Yazılım ve algoritmalar</text>
-    <text x="687" y="261" fill="#a6e3a1" font-family="SFMono-Regular,Consolas,monospace" font-size="12">[+] Donanım ve gömülü sistemler</text>
-    <text x="687" y="284" fill="#a6e3a1" font-family="SFMono-Regular,Consolas,monospace" font-size="12">[+] Problem çözme</text>
-    <text x="687" y="307" fill="#a6e3a1" font-family="SFMono-Regular,Consolas,monospace" font-size="12">[+] Yeni şeyler öğrenme</text>
+    <text x="687" y="211" fill="#cdb5ff" font-family="SFMono-Regular,Consolas,monospace" font-size="14">$ ilgi_alanlarım --listele</text>
+    <text x="687" y="238" fill="#a6e3a1" font-family="SFMono-Regular,Consolas,monospace" font-size="12">[+] "Yazılım ve algoritmalar"</text>
+    <text x="687" y="261" fill="#a6e3a1" font-family="SFMono-Regular,Consolas,monospace" font-size="12">[+] "Donanım ve gömülü sistemler"</text>
+    <text x="687" y="284" fill="#a6e3a1" font-family="SFMono-Regular,Consolas,monospace" font-size="12">[+] "Problem çözme"</text>
+    <text x="687" y="307" fill="#a6e3a1" font-family="SFMono-Regular,Consolas,monospace" font-size="12">[+] "Yeni şeyler öğrenme"</text>
     <text x="687" y="343" fill="#cdb5ff" font-family="SFMono-Regular,Consolas,monospace" font-size="14">$ <tspan fill="#f0e9ff">geleceği_geliştir</tspan><tspan fill="#a78bfa">_</tspan></text>
   </g>
   <rect x="660" y="72" width="480" height="292" rx="15" fill="none" stroke="#c4a7ff" stroke-opacity=".45"/>
