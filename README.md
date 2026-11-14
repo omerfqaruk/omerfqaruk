@@ -33,11 +33,15 @@ Bilgisayarlarla tanışmam 12 yaşımda başladı. O günden beri sistemlerin na
 <p align="center">
   <strong>Programlama Dilleri</strong>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,php,js" alt="Programlama dilleri" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=c" alt="C programlama dili" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,js" alt="Programlama dilleri" />
   <br>
   <sub>C · Başlangıç seviyesi</sub>
+  <br><br>
+  <strong>Veritabanı</strong>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="SQL ve MySQL" />
+  <br>
+  <sub>SQL</sub>
   <br><br>
   <strong>Web ve Geliştirme Araçları</strong>
   <br><br>
@@ -45,7 +49,7 @@ Bilgisayarlarla tanışmam 12 yaşımda başladı. O günden beri sistemlerin na
   <br><br>
   <strong>Elektronik ve Gömülü Sistemler</strong>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Elektronik ve gömülü sistemler" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Arduino ve Raspberry Pi" />
 </p>
 
 ## 🎯 İlgi Alanlarım
@@ -59,7 +63,6 @@ Bilgisayarlarla tanışmam 12 yaşımda başladı. O günden beri sistemlerin na
     <td width="50%" valign="top">
       <h3>🎬 Sinema</h3>
       Sinema, hayatımda önemli bir yere sahip. Özellikle güçlü hikâye anlatımı, karakter derinliği ve yönetmenlerin kendilerine özgü anlatım biçimleri ilgimi çekiyor. Bir filmi yalnızca izlemekle kalmayıp üzerine düşünmeyi ve yorumlamayı seviyorum.
-      <br><br>
       <a href="https://letterboxd.com/Omer_Fqaruk/">Letterboxd profilim</a>
     </td>
   </tr>
@@ -70,7 +73,7 @@ Bilgisayarlarla tanışmam 12 yaşımda başladı. O günden beri sistemlerin na
     </td>
     <td width="50%" valign="top">
       <h3>🔌 Elektronik ve Gömülü Sistemler</h3>
-      Yazılımın fiziksel dünyayla buluştuğu noktalar her zaman ilgimi çekti. Arduino ve ESP32 gibi platformlarla çalışmak, devreleri tanımak ve yazdığım kodun gerçek dünyada bir karşılık bulmasını görmek hoşuma gidiyor.
+      Yazılımın fiziksel dünyayla buluştuğu noktalar her zaman ilgimi çekti. Arduino ve Raspberry Pi gibi platformlarla çalışmak, devreleri tanımak ve yazdığım kodun gerçek dünyada         bir karşılık bulmasını görmek hoşuma gidiyor.
     </td>
   </tr>
 </table>
@@ -83,9 +86,6 @@ Bilgisayarlarla tanışmam 12 yaşımda başladı. O günden beri sistemlerin na
   </a>
   <a href="https://www.instagram.com/omerfqaruk/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://letterboxd.com/Omer_Fqaruk/">
-    <img src="https://img.shields.io/badge/Letterboxd-00A368?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd">
   </a>
 </p>
 
@@ -100,5 +100,5 @@ Bilgisayarlarla tanışmam 12 yaşımda başladı. O günden beri sistemlerin na
 <div align="center">
   <strong>Ziyaret ettiğin için teşekkür ederim. 💜</strong>
   <br>
-  <sub>Öğrenmeye, üretmeye ve gelişmeye devam.</sub>
+  <sub>Buraya kadar uğradığın için teşekkürler.</sub>
 </div>
