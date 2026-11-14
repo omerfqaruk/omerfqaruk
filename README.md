@@ -49,9 +49,9 @@ Bilgisayarlarla tanışmam 12 yaşımda başladı. O günden beri sistemlerin na
   <br><br>
   <strong>Elektronik ve Gömülü Sistemler</strong>
   <br><br>
-  <p align="left">
+  <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Arduino ve Raspberry Pi" />
-  <img src="./esp32.svg" width="48" height="48" alt="ESP32" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/esp32.png" width="48" height="48" alt="ESP32" />
 </p>
 </p>
 
