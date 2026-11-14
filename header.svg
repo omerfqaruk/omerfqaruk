@@ -1,36 +1,57 @@
-<svg width="800" height="250" viewBox="0 0 800 250" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">Ömer Faruk Yıkılmaz | Yazılım Geliştirici</title>
+  <desc id="desc">Koyu mor temalı, Türkçe metinler içeren kişisel yazılımcı başlığı. Terminal, kod, algoritma ve elektronik devre detayları.</desc>
   <defs>
-    <linearGradient id="skyGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#1a0b2e;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#431d5a;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ff7e5f;stop-opacity:1" />
-    </linearGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur in="SourceAlpha" stdDeviation="3"/>
-      <feOffset dx="2" dy="2" result="offsetblur"/>
-      <feComponentTransfer>
-        <feFuncA type="linear" slope="0.5"/>
-      </feComponentTransfer>
-      <feMerge> 
-        <feMergeNode/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#100d19"/><stop offset=".55" stop-color="#21172f"/><stop offset="1" stop-color="#0b0a12"/></linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2b203d"/><stop offset="1" stop-color="#15111f"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#9b7be8"/><stop offset=".55" stop-color="#d0baff"/><stop offset="1" stop-color="#8055dc"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#bda7ed" stroke-opacity=".07"/></pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="terminalClip"><rect x="660" y="72" width="480" height="292" rx="15"/></clipPath>
   </defs>
+  <rect width="1200" height="440" rx="22" fill="url(#bg)"/><rect width="1200" height="440" rx="22" fill="url(#grid)"/>
+  <rect width="1200" height="7" rx="3" fill="url(#accent)"/>
+  <circle cx="1040" cy="105" r="190" fill="#8b5cf6" opacity=".07"/><circle cx="1040" cy="105" r="135" fill="none" stroke="#bda7ed" stroke-opacity=".13"/><circle cx="1040" cy="105" r="100" fill="none" stroke="#bda7ed" stroke-opacity=".1" stroke-dasharray="3 9"/>
 
-  <rect width="800" height="250" fill="url(#skyGradient)" rx="15"/>
-
-  <g fill="white" opacity="0.7">
-    <circle cx="50" cy="50" r="1.5" /><circle cx="150" cy="20" r="2" />
-    <circle cx="300" cy="80" r="1" /><circle cx="500" cy="30" r="1.5" />
-    <circle cx="700" cy="60" r="2" /><circle cx="600" cy="120" r="1" />
-    <circle cx="100" cy="150" r="1.5" /><circle cx="750" cy="200" r="1" />
-    <circle cx="250" cy="40" r="1" /><circle cx="450" cy="10" r="2" />
+  <!-- Kimlik alanı -->
+  <g transform="translate(62 76)">
+    <rect width="116" height="116" rx="23" fill="#241a34" stroke="#b99bff" stroke-opacity=".7" stroke-width="1.5"/>
+    <rect x="8" y="8" width="100" height="100" rx="17" fill="none" stroke="#e0d2ff" stroke-opacity=".14"/>
+    <text x="58" y="78" text-anchor="middle" fill="#d0baff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="750" letter-spacing="-3">ÖF</text>
+    <path d="M27 91H89" stroke="#9e7bea" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="91" cy="91" r="3.5" fill="#eee5ff" filter="url(#glow)"/>
   </g>
+  <text x="62" y="239" fill="#f0e9ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="37" font-weight="750" letter-spacing="-.8">ÖMER FARUK YIKILMAZ</text>
+  <text x="64" y="273" fill="#c7b3ec" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="2.2">BİLGİSAYAR PROGRAMCILIĞI ÖĞRENCİSİ</text>
+  <rect x="64" y="296" width="44" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="64" y="326" fill="#a99abb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Merak et · Öğren · Üret · Geliştir</text>
+  <text x="64" y="356" fill="#827495" font-family="SFMono-Regular,Consolas,monospace" font-size="12">GitHub: @omerfqaruk</text>
 
-  <path d="M0 250 L150 180 L300 220 L450 160 L600 200 L800 120 L800 250 Z" fill="#0f051c" opacity="0.8"/>
-  <path d="M0 250 L200 200 L400 230 L650 180 L800 210 L800 250 Z" fill="#261136" opacity="0.9"/>
+  <!-- Bağlantı / devre çizgileri -->
+  <g fill="none" stroke="#a78bfa" stroke-opacity=".42" stroke-width="1.5"><path d="M178 130H226V104H270"/><path d="M178 164H214V185H250"/><path d="M250 185H287"/><path d="M570 112H624V91H660"/><path d="M570 315H624V338H660"/></g>
+  <g fill="#d0baff"><circle cx="226" cy="130" r="3"/><circle cx="270" cy="104" r="3"/><circle cx="214" cy="211" r="3"/><circle cx="624" cy="91" r="3"/><circle cx="624" cy="338" r="3"/></g>
 
-  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="48" font-weight="bold" fill="#ffffff" filter="url(#shadow)">Ömer Faruk Yıkılmaz</text>
-  <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="24" fill="#ffccbc" filter="url(#shadow)">Bilgisayar Programcılığı</text>
+  <!-- Terminal -->
+  <g clip-path="url(#terminalClip)">
+    <rect x="660" y="72" width="480" height="292" rx="15" fill="url(#panel)" stroke="#a78bfa" stroke-opacity=".55"/>
+    <rect x="660" y="72" width="480" height="44" fill="#302341"/><path d="M660 116H1140" stroke="#c7b3ec" stroke-opacity=".2"/>
+    <circle cx="685" cy="94" r="5" fill="#f38ba8"/><circle cx="703" cy="94" r="5" fill="#f9e2af"/><circle cx="721" cy="94" r="5" fill="#a6e3a1"/>
+    <text x="900" y="98" fill="#b9a9cc" font-family="SFMono-Regular,Consolas,monospace" font-size="11" text-anchor="middle">omerfqaruk@gelistirme ~</text>
+    <text x="687" y="151" fill="#cdb5ff" font-family="SFMono-Regular,Consolas,monospace" font-size="14">$ kimim-ben?</text>
+    <text x="687" y="176" fill="#f0e9ff" font-family="SFMono-Regular,Consolas,monospace" font-size="13">Ömer Faruk Yıkılmaz</text>
+    <text x="687" y="211" fill="#cdb5ff" font-family="SFMono-Regular,Consolas,monospace" font-size="14">$ ilgi-alanlarım --listele</text>
+    <text x="687" y="238" fill="#a6e3a1" font-family="SFMono-Regular,Consolas,monospace" font-size="12">[+] Yazılım ve algoritmalar</text>
+    <text x="687" y="261" fill="#a6e3a1" font-family="SFMono-Regular,Consolas,monospace" font-size="12">[+] Donanım ve gömülü sistemler</text>
+    <text x="687" y="284" fill="#a6e3a1" font-family="SFMono-Regular,Consolas,monospace" font-size="12">[+] Problem çözme</text>
+    <text x="687" y="307" fill="#a6e3a1" font-family="SFMono-Regular,Consolas,monospace" font-size="12">[+] Yeni şeyler öğrenme</text>
+    <text x="687" y="343" fill="#cdb5ff" font-family="SFMono-Regular,Consolas,monospace" font-size="14">$ <tspan fill="#f0e9ff">geleceği_geliştir</tspan><tspan fill="#a78bfa">_</tspan></text>
+  </g>
+  <rect x="660" y="72" width="480" height="292" rx="15" fill="none" stroke="#c4a7ff" stroke-opacity=".45"/>
+
+  <!-- Alt bilgi ve teknik süsler -->
+  <g font-family="SFMono-Regular,Consolas,monospace" font-size="10" letter-spacing="1.2" fill="#9282aa"><text x="278" y="98">01 / DÜŞÜN</text><text x="290" y="198">02 / GELİŞTİR</text><text x="470" y="386">C++ · PHP · JAVASCRIPT</text><text x="1138" y="407" text-anchor="end">ÖĞREN / ÜRET / TEKRARLA</text></g>
+  <g fill="none" stroke="#8b5cf6" stroke-width="1.4" stroke-opacity=".7"><path d="M280 110h24l9 9h30"/><path d="M293 231h35l9-9h23"/><path d="M1080 48v-13h38"/><path d="M1102 376h25v-15"/></g>
+  <g fill="#c4a7ff"><circle cx="343" cy="119" r="2.5"/><circle cx="360" cy="222" r="2.5"/><circle cx="1118" cy="35" r="2.5"/><circle cx="1127" cy="361" r="2.5"/></g>
+  <path d="M0 388H1200" stroke="#a78bfa" stroke-opacity=".18"/>
+  <text x="62" y="414" fill="#817391" font-family="SFMono-Regular,Consolas,monospace" font-size="10" letter-spacing="1.5">KOCAELİ ÜNİVERSİTESİ · BİLGİSAYAR PROGRAMCILIĞI</text>
 </svg>

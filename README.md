@@ -1,83 +1,108 @@
+
 <div align="center">
+  <img src="./header.svg" alt="Ömer Faruk Yıkılmaz - Kişisel yazılımcı başlığı" width="100%" />
+</div>
 
-<img src="./header.svg" alt="Ömer Yıkılmaz Header" width="100%" style="border-radius: 15px;" />
-<br><br>
+<h1 align="center">Merhaba, ben Ömer Faruk Yıkılmaz! 👋</h1>
 
-# 👋 Selam, Ben Ömer!
-
-### 💻 Yazılım | 🛡️ Siber Güvenlik | 🐧 Linux Tutkunu
-
-<br>
-
-_"Kodların derinliklerinde gezinmeyi ve sistemlerin nasıl çalıştığını anlamayı seviyorum."_
-<br>
-_"Sürekli öğrenmeye, deneyerek gelişmeye çalışan biriyim. Yeni teknolojileri keşfetmek en büyük tutkum."_
-<br><br>
-
----
-
-### 🚀 Hakkımda
-
-
-Bilgisayarla 12 yaşında tanıştığımda, ekrandaki görüntünün ötesini, sistemin **nasıl çalıştığını** merak etmeye başladım. Bu merak beni kod yazmaya ve algoritmik düşünmeye yöneltti.
-
-14–15 yaşlarımda **Arduino** ile tanışınca yazılımın fiziksel dünyadaki etkisini gördüm ve robotik projeler geliştirdim. **TÜBİTAK** ve **TEKNOFEST** gibi platformlarda projelerle yer aldım; her ne kadar istediğim dereceleri alamamış olsam da, bu süreç bana **tecrübe kazanmayı ve pes etmemeyi** öğretti.
-
-Bugün hâlâ aynı heyecanla; **algoritmalar ve programlama mantığı**, **Linux** ve **Siber Güvenlik** alanlarında kendimi geliştirmeye, öğrenmeye ve üretmeye devam ediyorum.
-
-<br>
-
----
-
-### 🛠️ Yetenekler ve Teknolojiler
-
-| **Kategori** | **Teknolojiler** |
-| :--- | :--- |
-| **Programlama Dilleri** | <img src="https://skillicons.dev/icons?i=c,cpp,py" width="160" /> |
-| **Araçlar & Sistemler** | <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,md" width="220" /> |
-| **Donanım** | <img src="https://skillicons.dev/icons?i=arduino" width="48" /> |
-
-<br>
-
----
-
-### 🎓 Eğitim Bilgileri
-
-| Okul | Bölüm / Detay | Tarih |
-| :--- | :--- | :--- |
-| **Kocaeli Üniversitesi MYO** | **Bilgisayar Programcılığı** (1. Sınıf) | 2025 - Günümüz |
-| **Gazeteci Çetin Altan MTAL** | Bilişim Teknolojileri <br> ✨ **Derece ile Mezuniyet** | 2021 - 2025 |
-
-<br>
-
----
-
-### 🎯 İlgi Alanları
-
-- ✍️ Boş zamanlarımda kendimce şiir yazıyorum; bu uğraş kafamı resetlemeye ve yaratıcı bakış açıları geliştirmemi sağlıyor.
-- 📚 Kitap okumayı seviyorum. Özellikle bakış açısı kazandıran ve sonu hakkında kafa yorulan esserleri çok severim.
-- 🎬 Film izlemek benim için sadece eğlence değil; anlatım dili, atmosfer ve hikâye yapısını analiz etmeyi seviyorum.  
-  İzlediklerimi ve kısa değerlendirmelerimi [Letterboxd profilimde](https://letterboxd.com/Omer_Fqaruk/) paylaşıyorum.
-
-<br>
-
----
-
-### 📬 İletişim
-
-Projeler, fikir alışverişi veya sadece tanışmak için:
-
-<a href="mailto:yikilmazomer3567@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-
-<br>
-
----
-<br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omerfqaruk&label=Profil%20Ziyaretçi%20Sayacı&color=0e75b6&style=flat" alt="Profil Ziyaret Sayısı" /><br><br>
-  <b>Ziyaretiniz için çok teşekkür ederim.</b>
+  <strong>Bilgisayar Programcılığı Öğrencisi</strong>
+  <br>
+  Yazılım Geliştirme · Problem Çözme · Teknoloji
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/%C3%B6mer-faruk-yikilmaz-2a732b273/">LinkedIn</a> ·
+  <a href="https://www.instagram.com/omerfqaruk/">Instagram</a> ·
+  <a href="https://letterboxd.com/Omer_Fqaruk/">Letterboxd</a> ·
+  <a href="mailto:omerfaruk0801@gmail.com">E-posta</a>
+</p>
+
+---
+
+## 👨‍💻 Hakkımda
+
+Bilgisayarlarla tanışmam 12 yaşımda başladı. O günden beri sistemlerin nasıl çalıştığını anlamaya, sorunlara çözüm üretmeye ve yeni şeyler öğrenmeye merak duyuyorum. 14–15 yaşlarımda Arduino ile tanışmam, yazılımın donanımla nasıl etkileşime girdiğini keşfetmemi sağladı.
+
+Şu anda **Kocaeli Üniversitesi Bilgisayar Programcılığı** bölümünde 2. sınıf öğrencisiyim. Yazılım geliştirme, algoritmalar, donanım-yazılım etkileşimi ve hata ayıklama konularıyla ilgileniyorum.
+
+Öğrenme sürecimi küçük projeler geliştirerek, farklı teknolojileri deneyerek ve karşılaştığım problemler için kendi çözümlerimi üreterek ilerletiyorum.
+
+## 🎓 Eğitim
+
+| Kurum | Program | Dönem / Bilgi |
+|:--|:--|:--|
+| **Kocaeli Üniversitesi – Meslek Yüksekokulu** | Bilgisayar Programcılığı | 2025–2027 · 2. sınıf |
+| **Gazeteci Çetin Altan Mesleki ve Teknik Anadolu Lisesi** | Bilişim Teknolojileri | 2021–2025 · Onur derecesiyle mezuniyet |
+
+**Genel not ortalaması:** 3,30 / 4,00
+
+## 🛠️ Teknolojiler ve Araçlar
+
+<p align="center">
+  <strong>Programlama Dilleri</strong>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,js" alt="Programlama dilleri" />
+  <br><br>
+  <strong>Web ve Geliştirme Araçları</strong>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,linux,github,vscode" alt="Web ve geliştirme araçları" />
+  <br><br>
+  <strong>Elektronik ve Gömülü Sistemler</strong>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Elektronik ve gömülü sistemler" />
+</p>
+
+> Not: C programlama dilinde başlangıç seviyesindeyim. Diğer teknolojilerde de öğrenmeye ve uygulama yaparak kendimi geliştirmeye devam ediyorum.
+
+## 🎯 İlgi Alanlarım
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Yazılım ve Teknoloji</h3>
+      Yazılım geliştirmek benim için yalnızca kod yazmaktan ibaret değil. Bir sistemin arka planında neler olduğunu anlamayı, problemleri analiz etmeyi ve kendi çözümlerimi üretmeyi seviyorum. Özellikle algoritmalar, farklı programlama dilleri ve donanım-yazılım etkileşimi ilgimi çekiyor.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎬 Sinema</h3>
+      Sinema, hayatımda önemli bir yere sahip. Özellikle güçlü hikâye anlatımı, karakter derinliği ve yönetmenlerin kendilerine özgü anlatım biçimleri ilgimi çekiyor. Bir filmi yalnızca izlemekle kalmayıp üzerine düşünmeyi ve yorumlamayı seviyorum.
+      <br><br>
+      <a href="https://letterboxd.com/Omer_Fqaruk/">Letterboxd profilim</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✍️ Şiir ve Edebiyat</h3>
+      Duyguları ve düşünceleri kelimelerle ifade etmek benim için ayrı bir uğraş. Şiir okumayı ve yazmayı seviyorum. Bazen birkaç satırın, uzun uzun anlatılanlardan çok daha fazlasını ifade edebildiğini düşünüyorum.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔌 Elektronik ve Gömülü Sistemler</h3>
+      Yazılımın fiziksel dünyayla buluştuğu noktalar her zaman ilgimi çekti. Arduino ve ESP32 gibi platformlarla çalışmak, devreleri tanımak ve yazdığım kodun gerçek dünyada bir karşılık bulmasını görmek hoşuma gidiyor.
+    </td>
+  </tr>
+</table>
+
+## 📫 İletişim
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/%C3%B6mer-faruk-yikilmaz-2a732b273/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/omerfqaruk/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://letterboxd.com/Omer_Fqaruk/">
+    <img src="https://img.shields.io/badge/Letterboxd-00A368?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd">
+  </a>
+  <a href="mailto:omerfaruk0801@gmail.com">
+    <img src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta">
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <strong>Ziyaret ettiğin için teşekkür ederim. 💜</strong>
+  <br>
+  <sub>Öğrenmeye, üretmeye ve gelişmeye devam.</sub>
 </div>
